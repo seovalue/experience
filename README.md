@@ -8,3 +8,4 @@
 |자동차 경주 미션 - step2|[java-racingcar](https://github.com/seovalue/java-racingcar/tree/step2)|[PR of java-racingcar:step2](https://github.com/woowacourse/java-racingcar/pulls?q=is%3Apr+is%3Aclosed+%EC%A1%B0%EC%95%A4)|
 |로또 미션 - step1|[java-lotto](https://github.com/seovalue/java-lotto/tree/step1)|[PR of java-lotto:step1](https://github.com/woowacourse/java-lotto/pull/232)|
 |로또 미션 - step2|[java-lotto](https://github.com/seovalue/java-lotto/tree/step2)|[PR of java-lotto:step2](https://github.com/woowacourse/java-lotto/pull/292)|
+|블랙잭 미션 - step1|[java-blackjack](https://github.com/seovalue/java-blackjack/tree/step1)|[PR of java-blackjack:step1](https://github.com/woowacourse/java-blackjack/pull/134)|
