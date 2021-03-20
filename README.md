@@ -10,3 +10,4 @@
 |로또 미션 - step2|[java-lotto](https://github.com/seovalue/java-lotto/tree/step2)|[PR of java-lotto:step2](https://github.com/woowacourse/java-lotto/pull/292)|
 |블랙잭 미션 - step1|[java-blackjack](https://github.com/seovalue/java-blackjack/tree/step1)|[PR of java-blackjack:step1](https://github.com/woowacourse/java-blackjack/pull/134)|
 |블랙잭 미션 - step2|[java-blackjack](https://github.com/seovalue/java-blackjack/tree/step2)|[PR of java-blackjack:step2](https://github.com/woowacourse/java-blackjack/pull/170)|
+|체스 미션 - step1~3|[java-chess](https://github.com/seovalue/java-chess/tree/step1)|[PR of java-chess:step1~3](https://github.com/woowacourse/java-chess/pull/163)|
