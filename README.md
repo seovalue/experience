@@ -11,3 +11,4 @@
 |블랙잭 미션 - step1|[java-blackjack](https://github.com/seovalue/java-blackjack/tree/step1)|[PR of java-blackjack:step1](https://github.com/woowacourse/java-blackjack/pull/134)|
 |블랙잭 미션 - step2|[java-blackjack](https://github.com/seovalue/java-blackjack/tree/step2)|[PR of java-blackjack:step2](https://github.com/woowacourse/java-blackjack/pull/170)|
 |체스 미션 - step1~3|[java-chess](https://github.com/seovalue/java-chess/tree/step1)|[PR of java-chess:step1~3](https://github.com/woowacourse/java-chess/pull/163)|
+|todo list 미션 - step1|[js-todo-step1](https://github.com/seovalue/js-todo-list-step1/tree/seovalue)|[PR of js-todo:step1](https://github.com/woowacourse/js-todo-list-step1/pull/19)|
