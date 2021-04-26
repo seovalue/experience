@@ -19,7 +19,3 @@
 |체스 미션 - step1~3|[java-chess](https://github.com/seovalue/java-chess/tree/step1)|[PR of java-chess:step1~3](https://github.com/woowacourse/java-chess/pull/163)|
 |todo list 미션 - step1|[js-todo-step1](https://github.com/seovalue/js-todo-list-step1/tree/seovalue)|[PR of js-todo:step1](https://github.com/woowacourse/js-todo-list-step1/pull/19)|
 |체스 미션 - step4~5|[java-chess](https://github.com/seovalue/java-chess/tree/step2)|[PR of java-chess:step4~5](https://github.com/woowacourse/java-chess/pull/228)|
-
-
-# PK와 함께하는 회고 🤔
-[피케이와 조앤이 함께하는 회고](https://www.notion.so/valuecoding/ee17734fcebd415aa1bccd75f3aba2c5)
