@@ -32,5 +32,7 @@
 |스프링 (경로 조회/로그인) - step2|[atdd-subway-path](https://github.com/seovalue/atdd-subway-path/tree/step2PR of atdd-subway-path:step2](https://github.com/woowacourse/atdd-subway-path/pull/118)|
 |스프링 (협업 미션)|[atdd-subway-fare](https://github.com/seovalue/atdd-subway-fare/tree/seovalue)|[PR of atdd-subway-fare](https://github.com/woowacourse/atdd-subway-fare/pull/30)|
 
+## 테코톡 - Proxy and Load Balancer
+[테코톡 - Proxy and Load Balancer](https://youtu.be/u4O4zHdiFhk)
 
 
