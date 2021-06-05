@@ -1,8 +1,8 @@
 # 우아한 테크코스 아카이빙 🚀
-![poster](https://github.com/da-nyee/woowacourse-projects/raw/master/img/techcourse_poster_3nd.jpg)
+<img src="https://github.com/da-nyee/woowacourse-projects/raw/master/img/techcourse_poster_3nd.jpg" alt="woowacourse_poster" height="400" />
 
 
-> 우아한 테크코스 기간동안 진행했던 미션, 프로젝트의 코드를 아카이빙 해 둔 곳입니다.
+> 우아한 테크코스 기간동안 진행했던 미션, 프로젝트의 코드를 아카이빙하는 페이지입니당 >ㅁ<
 
 
 # 레벨 1. TDD와 OOP ✍🏻
