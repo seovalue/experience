@@ -43,4 +43,8 @@
 |------|---|---|
 |2021 프로젝트 - 보고 또 보고(보또보)|[2021-botobo](https://github.com/woowacourse-teams/2021-botobo)|[🐸 보또보 위키](https://github.com/woowacourse-teams/2021-botobo/wiki)|
 
+# 우아한테크코스 프롤로그 프로젝트
+|프로젝트 명|저장소 링크|배포 링크|
+|------|---|---|
+|학습로그 프로젝트 - 프롤로그|[prolog](https://github.com/woowacourse/prolog)|[프롤로그](https://prolog.techcourse.co.kr/)|
 
