@@ -38,13 +38,20 @@
 ## 테코톡 - Proxy and Load Balancer
 [테코톡 - Proxy and Load Balancer](https://youtu.be/u4O4zHdiFhk)
 
+## 레벨2 면접 대비 학습로그 정리
+[레벨2 학습로그 정리](https://gist.github.com/seovalue/ae7fac6e750f39f93b154523cb862e56)
+
 # 레벨 3. 프로젝트
 |미션명|저장소 링크|위키 링크|
 |------|---|---|
 |2021 프로젝트 - 보고 또 보고(보또보)|[2021-botobo](https://github.com/woowacourse-teams/2021-botobo)|[🐸 보또보 위키](https://github.com/woowacourse-teams/2021-botobo/wiki)|
 
+## 레벨3 면접 대비 학습로그 정리
+[레벨3 학습로그 정리](https://gist.github.com/seovalue/3a6c110368ef394aab5364bd5916fa7b)
+
 # 우아한테크코스 프롤로그 프로젝트
 |프로젝트 명|저장소 링크|배포 링크|
 |------|---|---|
 |학습로그 프로젝트 - 프롤로그|[prolog](https://github.com/woowacourse/prolog)|[프롤로그](https://prolog.techcourse.co.kr/)|
+
 
