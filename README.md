@@ -102,7 +102,7 @@
 |HTTP 서버 구현하기 1단계|[HTTP 서버 구현하기](https://github.com/seovalue/jwp-dashboard-http)|[HTTP 서버 구현하기](https://github.com/woowacourse/jwp-dashboard-http/pull/13)|
 |HTTP 서버 구현하기 2단계|[HTTP 서버 구현하기](https://github.com/seovalue/jwp-dashboard-http)|[쿠키, 세션 구현하기](https://github.com/woowacourse/jwp-dashboard-http/pull/73)|
 |MVC 구현하기 1단계|[MVC 구현하기](https://github.com/seovalue/jwp-dashboard-mvc/tree/seovalue-step1)|[MVC 구현하기 1단계](https://github.com/woowacourse/jwp-dashboard-mvc/pull/21)|
-|MVC 구현하기 2,3단계|[MVC 구현하기](https://github.com/seovalue/jwp-dashboard-mvc/tree/seovalue-step3)|[MVC 구현하기 2,3단계](https://github.com/woowacourse/jwp-dashboard-mvc/pull/21)|
+|MVC 구현하기 2,3단계|[MVC 구현하기](https://github.com/seovalue/jwp-dashboard-mvc/tree/seovalue-step3)|[MVC 구현하기 2,3단계](https://github.com/woowacourse/jwp-dashboard-mvc/pull/74)|
 |조회 성능 개선하기|[조회 성능 개선하기](https://github.com/woowacourse/sql-tuning/pull/22)|
 |레거시 코드 리팩토링 1단계|[레거시 코드 리팩토링 1단계](https://github.com/woowacourse/jwp-refactoring/pull/103)|
 |레거시 코드 리팩토링 2단계|[레거시 코드 리팩토링 2단계](https://github.com/woowacourse/jwp-refactoring/pull/123)|
